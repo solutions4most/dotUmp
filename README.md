@@ -2,7 +2,7 @@
 or
 # What's the call, Ump?
 
-Here be data extracts from webpages and videos.
+Here be data extracts from webpages and videos. Pull requests will be most welcomed!
 
 What started out as a simple query - Lets find how many faults (or lets) were called in badminton matches - led to the start of this repository. 
 
